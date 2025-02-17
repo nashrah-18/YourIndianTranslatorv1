@@ -1,5 +1,5 @@
 # YourIndianTranslatorv1
-A model that translates your English texts into Hindi text in colloquial language!
+A model that translates your English texts into Hindi colloquial language texts!
 Specifically trained for female tourists.
 
 Problems foreigners face while travelling:
