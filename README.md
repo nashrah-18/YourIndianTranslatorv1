@@ -13,3 +13,6 @@ My Solution: "AI-Powered Translation Model"
 - Trained on a comprehensive dataset covering 130+ questions and 13 essential topics.
 - Covers critical topics like menstrual tips, safety, pregnancy, medical emergencies, weather and even internet connection!
 - Specifically designed for female tourists in India.
+
+If incase the code is not visible, you can check out my model and dataset its trained on at hugging face:
+id: nashrah18/indian_translatorv1
